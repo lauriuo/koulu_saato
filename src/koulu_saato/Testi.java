@@ -10,5 +10,9 @@ package koulu_saato;
  * @author lauri
  */
 public class Testi {
+    public static void main(String[] args) {
+        int i = 1;
+        
+    }
     
 }
